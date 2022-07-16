@@ -1,5 +1,9 @@
 # Brownian Motion Simulation
 
+## Sample Run
+
+![brownian-motion](media/BrownianMotion.gif)
+
 ## Description
 
 A quick visualization of Brownian motion across 1 and 2 dimensional space. This is about as mathematical as random scribbling can get.
